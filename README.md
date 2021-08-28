@@ -2,7 +2,7 @@
 
 In this course, you will learn from basics of machine learning to advanced level in machine learning, you will understand both theory + practical, you will work on building real world machine learning systems, and formulating the machine learning problem, we covered everything one needs to know about machine learning talking about theory as well as practicals. Students also given problem sets that contains both technical and theoretical questions. It takes a lot of time to develop all of this, it will be very helpful for me if you watch this course on Newera and subscribe the channel.
 
-This Course is developed by Ayush Singh by [Newera](https://youtube.com/c/neweraa), Subscribe this channel for further courses. 
+This Course is developed by Ayush Singh by [Newera](https://youtube.com/c/neweraa/?sub_confirmation=1), Subscribe this channel for further courses. 
 
 Course Website:- https://ml001.netlify.app/
 ML001 Syllabus:- https://ml001.netlify.app/pages/syllabus.html
