@@ -10,7 +10,7 @@ Instructor haven't found any Errata in this Section, If you find one plz feel fr
 
 __Errata 1:__ TimeStamp : 57:15  
 
-While taking out the partial deriviative of our cost function, Ayush derived this value :- $\frac{2}{m} +  \sum  \limits _{i = 1} ^{m} (\Theta^{T}x^{i} - y^{i})^{2}$ but instead of this it should be $\frac{2}{m} *  \sum  \limits _{i = 1} ^{m} (\Theta^{T}x^{i} - y^{i})^{2}$. 
+![image](https://user-images.githubusercontent.com/81796368/131219891-ac707e25-9f5c-44d8-b3e3-3179a50be2a1.png)
 
 2.) Errata in **Logistic Regression**:- 
 
