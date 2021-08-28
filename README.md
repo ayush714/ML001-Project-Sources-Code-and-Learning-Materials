@@ -24,3 +24,7 @@ __Folders Information__:-
 __Contributing Guidelines__:-  
 
 - If you're learning from ML001, you can makes notes in your notebook and contribute to our ML001 Lecture Notes folder.  
+
+__Stuck in the course:__:-  
+
+Join our [discord community](https://discord.gg/FDUy8BmV) to ask your questions and share your projects. 
