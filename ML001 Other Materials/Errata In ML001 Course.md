@@ -10,7 +10,9 @@ Instructor have told dicrete, it should be discrete and other mispronounced term
 
 __Errata 1:__ TimeStamp : 57:15  
 
-![image](https://user-images.githubusercontent.com/81796368/131219891-ac707e25-9f5c-44d8-b3e3-3179a50be2a1.png)
+![image](https://user-images.githubusercontent.com/81796368/131492337-1e3fa1d7-38c7-4978-a5ed-4f11efc2e28f.png)
+
+Here there are some clarification and derivation fof this is given in clarification.md
 
 2.) Errata in **Logistic Regression**:- 
 
