@@ -4,7 +4,7 @@ In ML001, Instructor had made some mistakes while writing formulas, so all the e
 
 1.) Errata in **Fundamentals of Machine Learning**:- 
 
-Instructor haven't found any Errata in this Section, If you find one plz feel free to make a PR. 
+Instructor have told dicrete, it should be discrete and other mispronounced term was deriviative, it should be derivative. 
 
 2.) Errata in **Linear Regression**:-  
 
