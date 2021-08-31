@@ -9,6 +9,7 @@ Instructor have told dicrete, it should be discrete and other mispronounced term
 2.) Errata in **Linear Regression**:-  
 
 __Errata 1:__ TimeStamp : 57:15  
+![image](https://user-images.githubusercontent.com/81796368/131498479-f8103071-cf28-45be-b466-f3776b84c812.png)
 
 ![image](https://user-images.githubusercontent.com/81796368/131492337-1e3fa1d7-38c7-4978-a5ed-4f11efc2e28f.png)
 
